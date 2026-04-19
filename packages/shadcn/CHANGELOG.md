@@ -1,5 +1,11 @@
 # @shadcn/ui
 
+## 4.3.1
+
+### Patch Changes
+
+- [#10436](https://github.com/shadcn-ui/ui/pull/10436) [`b7cfc364aca36bc90f8efa86773bc81011502036`](https://github.com/shadcn-ui/ui/commit/b7cfc364aca36bc90f8efa86773bc81011502036) Thanks [@shadcn](https://github.com/shadcn)! - Ensure `init` only runs template post-init hooks for newly created projects.
+
 ## 4.3.0
 
 ### Minor Changes
